@@ -1,4 +1,6 @@
 **Sales Data Analysis Report**
+![Sales Data Analysis](https://github.com/iambitttu/Sales-Data-Analysis/assets/117813323/1d5d3151-6fcc-485d-89cb-8aa6536e9e1d)
+
 
 **1. Introduction:**
 The purpose of this project was to analyze sales data to provide actionable insights for improving sales strategies and maximizing revenue. By delving into the dataset, we aimed to identify trends, understand customer behavior, and pinpoint opportunities for growth.
